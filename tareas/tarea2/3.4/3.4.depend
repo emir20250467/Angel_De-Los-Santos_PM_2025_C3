@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758851765 source:c:\users\acer v15\desktop\tarea2\3.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1763102377 source:c:\users\acer v15\angel_de-los-santos_pm_2025_c3\tareas\tarea7\programa de viaje de vehiculos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
